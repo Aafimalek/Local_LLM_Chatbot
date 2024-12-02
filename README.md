@@ -99,4 +99,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 
-For questions, suggestions, or feedback, feel free to reach out via [your contact info or GitHub profile link](https://github.com/Aafimalek).
+For questions, suggestions, or feedback, feel free to reach out via (https://github.com/Aafimalek).
